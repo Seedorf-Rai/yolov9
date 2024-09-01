@@ -2,6 +2,7 @@ train : '/kaggle/input/dataset/train/images'
 test : '/kaggle/input/dataset/test/images'
 val : '/kaggle/input/dataset/valid/images'
 
+nc : 10
 names :
   0: 0
   1: 1
