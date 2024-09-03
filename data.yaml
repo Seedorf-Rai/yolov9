@@ -1,0 +1,5 @@
+train : '/kaggle/input/dataset/train/images'
+val : '/kaggle/input/dataset/valid/images'
+
+nc : 10
+names : ["building","car","debri","ftpath","mroad","ofield","roof","shadow","tank","tree"]
